@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sguzlan
-- 👀 I’m interested in learnig and using DITA and GitHub.
-- 🌱 I’m currently learning both DITA and GitHub.
-- 💞️ I’m looking to collaborate on processes that help understand both better.
+- 👀 I’m interested in working with DITA docs in GitHub.
+- 🌱 I’m currently working with DITA and GitHub not much but only as much as my time permits me.
+- 💞️ I’m looking for collaborators with similar interests.
 - 📫 You can reach me at sguzlan@gmail.com.
 
 <!---
